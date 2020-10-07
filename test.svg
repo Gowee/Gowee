@@ -1,12 +1,13 @@
 <svg version="1.1" class="wufoo-ad" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-    viewBox="0 0 300 300">
-    <text id="ip" x="0" y="15"> loading </text>
+    viewBox="0 0 80 80">
+    <!-- <text id="ip" x="0" y="15"> loading </text> -->
+    <image href="https://www.w3schools.com/images/colorpicker.gif" x="30" y="30" />
     <script type="text/javascript">
-        async function run() {
+        <!-- async function run() {
             const r = await fetch("https://python-worker-demo.bamboo.workers.dev");
             const d = await r.json();
             document.querySelector("#ip").innerHTML = d.ip;
         }
-        run();
+        run(); -->
     </script>
 </svg>
