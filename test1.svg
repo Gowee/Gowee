@@ -10,4 +10,9 @@
         }
         run(); -->
     </script>
+    
+  <audio autoplay="true" xmlns="http://www.w3.org/1999/xhtml">
+    <source src="http://dahlström.net/svg/audio/media/bubbles.mp3" type="audio/mpeg" />
+  Your browser does not support the audio element.
+  </audio> 
 </svg>
