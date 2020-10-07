@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![ip-svg](https://raw.githubusercontent.com/Gowee/Gowee/main/test1.svg)
-
 <!--
 **Gowee/Gowee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
