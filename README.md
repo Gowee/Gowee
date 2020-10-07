@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Nyan Cat](https://raw.githubusercontent.com/Gowee/nyancat-svg/main/nyancat.svg)](https://github.com/Gowee/nyancat-svg)
+
 <!--
 **Gowee/Gowee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
