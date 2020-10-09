@@ -1,0 +1,12 @@
+<svg version="2.1" class="wufoo-ad" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+    viewBox="0 0 80 80">
+    <style>
+        .test {
+            opacity: 0.3;
+        }
+        .test:hover {
+            opacity: 0.7;
+        }
+    </style>
+    <text class="test" x="5" y="15"> test </text>
+</svg>
